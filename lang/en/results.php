@@ -55,9 +55,6 @@ return [
 
     // Actions
     'update_comments' => 'Update comments',
-    'truncate_results' => 'Truncate results',
-    'truncate_results_description' => 'Are you sure you want to truncate all results? This action is irreversible.',
-    'truncate_results_success' => 'Results table truncated!',
     'view_on_speedtest_net' => 'View on Speedtest.net',
 
     // Notifications
@@ -72,7 +69,6 @@ return [
 
     // Run Speedtest Action
     'speedtest' => 'Speedtest',
-    'public_dashboard' => 'Public Dashboard',
     'select_server' => 'Select Server',
     'select_server_helper' => 'Leave empty to run the speedtest without specifying a server. Blocked servers will be skipped.',
     'manual_servers' => 'Manual servers',
